@@ -1,0 +1,37 @@
+*** CAMBIA ESTE TEXTO EN LO QUE PROCEDA ***
+
+Proyecto Hontza 3.0 - Generación de una plataforma abierta para la Inteligencia Competitiva
+-------------------------------------------------------------------------------------------
+
+Dirección del Proyecto: CDE - Centro de Vigilancia Normas y Patentes
+http://www.cde.es/
+Juan Carlos Vergara
+jcvergar@cde.es
+
+Desarrollador: NETKAM
+http://www.netkam.com/
+Aitor Labandibar
+aitor@netkam.com
+
+Cliente: ADEGI - Asociacion de Empresarios de Gipuzkoa
+http://www.adegi.es/
+
+Financiado por: SPRI - Sociedad para la Transformación Competitiva
+http://www.spri.es/
+
+
+El empaquetado de Hontza 3.0 es un fichero comprimido compuesto por:
+
+a) El programa en codigo abierto instalable hontza3.exe
+
+b) Varios ficheros y documentos:
+
+1.- InstalarHontza.doc y .pdf: Es el manual de instalación de Hontza 3.0
+
+2- Manual-hontza30-v1.odt y pdf: Es el manual de Hontza, tanto para el usuario como para el administrador. Este manual está en modo pregunta-respuesta para que se integre directamente en la ayuda dentro de la aplicación.
+
+3- INSTALL_HONTZA.txt: Es una traducción del install.txt de Drupal que explica como se instala un Drupal. Dado que Hontza 3.0 es una distribución de Drupal, este manual es igualmente valido para Hontza 3.0
+
+4- README_hontza.mdwon: Es un fichero de texto plano enriquecido que hace las función de manual de desarrollador y contextualiza la distribución de Drupal. Este documento indica los módulos que se han desarrollado, los que se han utilizado etc
+
+Bilbao, Oiartzun, marzo de 2012
